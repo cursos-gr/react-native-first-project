@@ -5,13 +5,14 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-## <p align="center"> 🏆 Desenvolvedor </p> 
+## <p align="center"> 🏆 Desenvolvedores </p> 
 
 <table align="center">
 	<tr>
 		<td>
             <a href="https://github.com/guidsribeiro/react-native-first-project/graphs/contributors">
               <img src="https://contrib.rocks/image?repo=guidsribeiro/aboutgr" />
+	      <img src="https://contrib.rocks/image?repo=luizbfernando/alura-javascript" />
             </a>
         </td>
 	</tr>
