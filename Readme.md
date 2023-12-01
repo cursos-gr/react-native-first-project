@@ -12,7 +12,7 @@
 		<td>
             <a href="https://github.com/guidsribeiro/react-native-first-project/graphs/contributors">
               <img src="https://contrib.rocks/image?repo=guidsribeiro/aboutgr" />
-	      <img src="https://contrib.rocks/image?repo=luizbfernando/alura-javascript" />
+	      <img src="https://contrib.rocks/image?repo=luizbfernando/hcode-cursos" />
             </a>
         </td>
 	</tr>
